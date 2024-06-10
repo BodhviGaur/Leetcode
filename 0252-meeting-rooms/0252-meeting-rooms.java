@@ -1,11 +1,6 @@
 class Solution {
     public boolean canAttendMeetings(int[][] intervals) {
-        Arrays.sort(intervals, (int1, int2) -> {
-            if (int1[0] == int2[0]) {
-                return Integer.compare(int1[1], int2[1]);
-            } 
-            return Integer.compare(int1[0], int2[0]);
-        });
+        Arrays.sort(intervals, (int1, int2) -> Integer.compare(int1[0], int2[0]));
         if (intervals.length < 2) {
             return true;
         }
@@ -18,3 +13,4 @@ class Solution {
         
     }
 }
+
