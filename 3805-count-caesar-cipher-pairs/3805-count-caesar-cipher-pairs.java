@@ -16,9 +16,9 @@ class Solution {
 
        for (int i = 0; i<len ; i++) {
         StringBuilder diff = new StringBuilder();
-        diff.append("$");
+        diff.append("");
         for (int k = 1; k<n ; k++) {
-            diff = diff.append(String.valueOf((words[i].charAt(k)-words[i].charAt(0) + 26) % 26)+"$");
+            diff = diff.append(String.valueOf((words[i].charAt(k)-words[i].charAt(0) + 26) % 26)+"");
         }
         // System.out.println("word : " + words[i] + ", diff: " + diff);
 
