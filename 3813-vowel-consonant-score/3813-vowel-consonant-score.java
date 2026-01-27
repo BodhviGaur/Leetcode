@@ -23,7 +23,7 @@ class Solution {
             return 0;
         }
         
-        return (int)Math.floor(vcount/ccount);
+        return vcount/ccount;
         
     }
 }
