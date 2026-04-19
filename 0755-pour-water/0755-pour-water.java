@@ -5,7 +5,9 @@ class Solution {
             int curr = k;
             int dropPos = k;
             boolean posChanged = false;
-            int[] directions = new int[]{-1,1};
+            int[] directions = new int[]{-1,1}; // note : move left first then right, 
+            //same solution would fail in 13 use cases if directions = new int[]{1,-1}
+            // because it moves right first then left
             for (int dir : directions) { // -1 means left, +1 means right
                 while ((curr + dir >= 0) && (curr + dir < n) && (heights[curr + dir] <= heights[curr])) {
                     if (heights[curr + dir] < heights[curr]) {
