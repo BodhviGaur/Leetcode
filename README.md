@@ -5,19 +5,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/BodhviGaur/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/BodhviGaur/Leetcode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/BodhviGaur/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/BodhviGaur/Leetcode/tree/master/0684-redundant-connection) |
 ## Union-Find
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/BodhviGaur/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/BodhviGaur/Leetcode/tree/master/0684-redundant-connection) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/BodhviGaur/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 ## Graph Theory
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/BodhviGaur/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/BodhviGaur/Leetcode/tree/master/0684-redundant-connection) |
 ## Array
 |  |
 | ------- |
