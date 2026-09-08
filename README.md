@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/BodhviGaur/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/BodhviGaur/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 ## Graph Theory
 |  |
 | ------- |
@@ -21,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0755-pour-water](https://github.com/BodhviGaur/Leetcode/tree/master/0755-pour-water) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/BodhviGaur/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 ## Simulation
 |  |
 | ------- |
 | [0755-pour-water](https://github.com/BodhviGaur/Leetcode/tree/master/0755-pour-water) |
+## Sorting
+|  |
+| ------- |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/BodhviGaur/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 <!---LeetCode Topics End-->
